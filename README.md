@@ -11,4 +11,4 @@ The dataset contains movies that were released up until the year 2020.
 To test the Flask deployment, simply run the "python main.py" command.
 
 ### demo
-![demo]([image URL](main/static/pic.jpg))
+![demo](morteza-sharifi1/-Netflix-Recommender-System/blob/main/static/pic.jpg)
